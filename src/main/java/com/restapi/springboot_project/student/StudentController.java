@@ -1,4 +1,4 @@
-package com.restapi.springboot_project;
+package com.restapi.springboot_project.student;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
